@@ -25,6 +25,8 @@ Lista  traductores:
 	* Xeros08
 
 	* Lord Mellington
+        
+        * Guntrek
 
 
 * Tradcutores:
