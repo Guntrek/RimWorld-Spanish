@@ -24,17 +24,17 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>¡Unos colonos necesitan rescate!</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>Estos colonos están incapacitados en el suelo:\n\n{0}\nManda a un colono en su auxilio y llevalos a una cama hospitalaria.\n\n(Para rescatar, selecciona otro colono, haz click derecho en la víctima y selecciona RESCATAR)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Estos colonos están incapacitados en el suelo:\n\n{0}\nManda a un colono en su auxilio y llévalos a una cama.\n\n(Para rescatar, selecciona otro colono, haz click derecho en la víctima y selecciona RESCATAR)</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Necesitas defensas</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Llevas aquí bastante tiempo y lo más probable es que alguien ya te haya notado. Los piratas comenzarán sus asaltos pronto.\n\nDeberías preparar algunas defensas, como sacos de arena o trampas.</NeedDefensesDesc>
+  <NeedDefensesDesc>Llevas aquí bastante tiempo y lo más probable es que alguien ya te haya visto. Los piratas comenzarán sus asaltos pronto.\n\nDeberías preparar algunas defensas, como sacos de arena o trampas.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Necesitas un doctor</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Estos colonos necesitan atención médico, pero no tienes a ningún colono saludable asignado como DOCTOR.\n\n{0}\nAsigna un colono saludable como doctor. Si no son tratados, las heridas podrían no sanar bien y volverse permanentes.</NeedDoctorDesc>
+  <NeedDoctorDesc>Estos colonos necesitan atención médica, pero no tienes a ningún colono saludable asignado como DOCTOR.\n\n{0}\nAsigna un colono saludable como doctor. Si no son tratados, las heridas podrían no sanar bien y volverse permanentes.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Necesitas un minero</NeedMiner>
@@ -49,7 +49,7 @@
   <!-- EN: Low food -->
   <LowFood>Poca comida</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Tus reservas de comida etán peligrosamente bajas.\n\n    Solo tienes almacenado: {0}\n unidades de comida\n    Colonos y prisioneros recibiendo comida: {1}\n    Días de comida restantes: {2}\n\nCultiva, compra, encuentra o mata algo para comer.</LowFoodDesc>
+  <LowFoodDesc>Tus reservas de comida etán peligrosamente bajas.\n\n   Sólo tienes almacenado: {0}\n unidades de comida\n    Colonos y prisioneros recibiendo comida: {1}\n    Días de comida restantes: {2}\n\nCultiva, compra, encuentra o mata algo para comer.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Poca medicina</LowMedicine>
@@ -129,7 +129,7 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Necesitas baterías</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>Tienes páneles solares pero no tienes baterías. Esto significa que te quedarás sin energía cada vez que anochezca o amaine.\n\nConstruye una BATERÍA, o dos, para no pasar la noche a oscuras.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Tienes paneles solares pero no tienes baterías. Esto significa que te quedarás sin energía cada vez que anochezca o amaine.\n\nConstruye una BATERÍA, o dos, para no pasar la noche a oscuras.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Un luchador tiene un arma a distancia</BrawlerHasRangedWeapon>
@@ -139,7 +139,7 @@
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>Incoherencia de equipo</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>Uno de tus colonos porta un arma a distancia junto con un escudo personal. Solo podrá usar su arma a quemarropa, ya que los proyectiles no pueden atravesar el escudo.</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Uno de tus colonos porta un arma a distancia junto con un escudo personal. Solo podrá usar su arma a quemarropa, ya que los proyectiles no pueden dispararse por el escudo.</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>Investigación ociosa</NeedResearchProject>
