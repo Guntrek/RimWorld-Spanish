@@ -15,7 +15,7 @@
   <!-- EN: cheap -->
   <PriceTypeCheap>barato</PriceTypeCheap>
   <!-- EN: normal -->
-  <PriceTypeNormal>regular</PriceTypeNormal>
+  <PriceTypeNormal>normal</PriceTypeNormal>
   <!-- EN: expensive -->
   <PriceTypeExpensive>caro</PriceTypeExpensive>
   <!-- EN: exorbitant -->
