@@ -20,7 +20,7 @@
 	* [x] "Royalty\Keyed\Dialog_StatReports"											Línea: 9
 	* [x] "Royalty\Keyed\GameplayCommands"												Línea: 5
 	* [x] "Royalty\Keyed\Letters"														Línea: 59
-	* [ ] "Royalty\Keyed\Dialog_StatReports"											Línea: 55 en adelante  (no veo las líneas en el archivo indicado, solo llega hasta la 21) -Guntrek
+	* [?] "Royalty\Keyed\Dialog_StatReports"											Línea: 55 en adelante  (no veo las líneas en el archivo indicado, solo llega hasta la 21) -Guntrek
 	* [x] "Core\Keyed\Dialog_StatReports"												Líneas: 116 - 119
 
 	* [x] "Royalty\DefInjected\QuestScriptDef\Scripts_Hospitality_Worker.xml"			Línea: 53
@@ -38,7 +38,7 @@
 	* [x] "Core\DefInjected\QuestScriptDef\"							Todos, no existia esta carpeta ni sus contenidos.
 	* [x] "Core\DefInjected\ToolCapacityDef\ToolCapacity.xml"			Son de las armas.
 	* [x] "Core\Definjected\SitePartDef\TODOS.xml"						Ya había algunos en la carpeta, pero mejor revisarlos todos.
-	* [ ] "Core\Definjected\RulePackDef\RulePacks_Combat______.xml"		Estos archivos faltaban.
+	* [ ] "Core\Definjected\RulePackDef\RulePacks_Combat______.xml"		Estos archivos faltaban. (Ayuda con esto, puedo traducir las preposiciones y demás pero no lo entiendo bien) -Guntrek
 
 
 
