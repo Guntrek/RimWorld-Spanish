@@ -25,7 +25,7 @@
 
 	* [x] "Royalty\DefInjected\QuestScriptDef\Scripts_Hospitality_Worker.xml"			Línea: 53
 	* [x] "Royalty\DefInjected\ThingDef\Buildings_MusicalInstruments.xml"				Líneas: 24 - 27
-	* [ ] "Core\DefInjected\TipSetDef\Tips.xml"											Línea: 129
+	* [x] "Core\DefInjected\TipSetDef\Tips.xml"											Línea: 129
 	* [ ] "Core\DefInjected\AbilityDef\Abilities.xml"									Líneas: 59 - 62
 
 
