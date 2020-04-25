@@ -40,7 +40,7 @@
 	<!-- EN: cannot order characters you do not control -->
 	<CannotOrderNonControlledLower>no puedes ordenar a unidades no reclutadas</CannotOrderNonControlledLower>
 	<!-- EN: cannot attack self -->
-	<CannotAttackSelf>no puedo atacarme a mí mismo</CannotAttackSelf>
+	<CannotAttackSelf>no puedes atacarte a tí mismo</CannotAttackSelf>
 
 	<!-- EN: Man {1_labelShort} -->
 	<OrderManThing>Operar a {1_labelShort}</OrderManThing>
