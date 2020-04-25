@@ -20,8 +20,8 @@
 	* [x] "Royalty\Keyed\Dialog_StatReports"											Línea: 9
 	* [x] "Royalty\Keyed\GameplayCommands"												Línea: 5
 	* [x] "Royalty\Keyed\Letters"														Línea: 59
-	* [ ] "Royalty\Keyed\Dialog_StatReports"											Línea: 55 en adelante (no veo las líneas en el archivo indicado, solo llega hasta la 21) -Guntrek
-	* [ ] "Core\Keyed\Dialog_StatReports"												Líneas: 116 - 119
+	* [ ] "Royalty\Keyed\Dialog_StatReports"											Línea: 55 en adelante  (no veo las líneas en el archivo indicado, solo llega hasta la 21) -Guntrek
+	* [x] "Core\Keyed\Dialog_StatReports"												Líneas: 116 - 119
 
 	* [ ] "Royalty\DefInjected\QuestScriptDef\Scripts_Hospitality_Worker.xml"			Línea: 53
 	* [ ] "Royalty\DefInjected\ThingDef\Buildings_MusicalInstruments.xml"				Líneas: 24 - 27
