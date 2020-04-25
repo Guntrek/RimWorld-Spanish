@@ -88,7 +88,7 @@
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>Gran salto del caos</MassChaosSkip.label>
   <!-- EN: Skip everyone near a target point to a random location nearby. -->
-  <MassChaosSkip.description>Teletrasporta a todos cerca de un punto objetivo a una ubicación aleatoria cercana.</MassChaosSkip.description>
+  <MassChaosSkip.description>Teletransporta a todos cerca de un punto objetivo a una ubicación aleatoria cercana.</MassChaosSkip.description>
 
 
 </LanguageData>
