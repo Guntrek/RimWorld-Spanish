@@ -17,10 +17,11 @@
 	* [x] "Core\DefInjected\RaidStrategyDef\RaidStrategies.xml"								Líneas: 13 - 20, 45 - 48
 
 
-	* [ ] "Royalty\Keyed\Dialog_StatReports"											Línea: 9
-	* [ ] "Royalty\Keyed\GameplayCommands"												Línea: 5
-	* [ ] "Royalty\Keyed\Letters"														Línea: 59
-	* [ ] "Royalty\Keyed\Dialog_StatReports"											Línea: 55 en adelante
+	* [x] "Royalty\Keyed\Dialog_StatReports"											Línea: 9
+	* [x] "Royalty\Keyed\GameplayCommands"												Línea: 5
+	* [x] "Royalty\Keyed\Letters"														Línea: 59
+	* [ ] "Royalty\Keyed\Dialog_StatReports"
+               "No veo las líneas en el archivo" -Guntrek											Línea: 55 en adelante
 	* [ ] "Core\Keyed\Dialog_StatReports"												Líneas: 116 - 119
 
 	* [ ] "Royalty\DefInjected\QuestScriptDef\Scripts_Hospitality_Worker.xml"			Línea: 53
